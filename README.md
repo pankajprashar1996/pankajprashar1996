@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **pankaj.prashar1996@gmail.com**
 
+- 👨‍💻 All of my projects are available at https://github.com/pankajprashar1996/MyProjects
+
 - ⚡ Fun fact **I love my data like I love my Pizza; neatly organized, with extra slices of insights:)**
 
 <h3 align="left">Connect with me:</h3>
